@@ -7,5 +7,9 @@ public class PrintMyName{
 
         System.out.println("Jimil");
 
+        System.out.println("Vansh");
+
+        System.out.println("Parthvi");
+
     }
 }
